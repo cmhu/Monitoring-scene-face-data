@@ -7,8 +7,8 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1.jpg" width="480" height="270" /> </td>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1-1.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1.jpg" width="120" height="164" /> </td>
+    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1-1.jpg" width="120" height="164" /> </td>
   </tr>
   <tr>
     <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/2.jpg" width="480" height="270" /> </td>
