@@ -23,17 +23,9 @@
     <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1-1.jpg" width="240" height="328" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/2.jpg" width="240" height="328" /> </td>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/2-1.jpg" width="240" height="328" /> </td>
-  </tr>
-  <tr>
     <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/3.jpg" width="240" height="328" /> </td>
     <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/3-1.jpg" width="240" height="328" /> </td>
-  </tr>     
-    <tr>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/4.jpg" width="240" height="328" /> </td>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/4-1.jpg" width="240" height="328" /> </td>
-  </tr>  
+  </tr>      
 </table>
 
     
