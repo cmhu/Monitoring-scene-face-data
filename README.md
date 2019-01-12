@@ -1,6 +1,6 @@
 # 监控场景人脸数据
 <p>淘然视界监控场景人脸数据（如有问题，可以随时在Issues中提问）：</p>
-<p>1）数据规模：当前165人，持续更新</p>
+<p>1）数据规模：百万级，持续更新</p>
 <p>2）数据种类：图片+框标注</p></p></p>
 <p>3）采集设备：IPC </p></p>
 <p>4）种族分布：黄种</p>
@@ -27,12 +27,12 @@
     <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/2-1.jpg" width="240" height="328" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1.jpg" width="240" height="328" /> </td>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1.jpg" width="240" height="328" /> </td>
+    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/3.jpg" width="240" height="328" /> </td>
+    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/3-1.jpg" width="240" height="328" /> </td>
   </tr>     
     <tr>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1.jpg" width="240" height="328" /> </td>
-    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/1.jpg" width="240" height="328" /> </td>
+    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/4.jpg" width="240" height="328" /> </td>
+    <td> <img src="https://github.com/cmhu/Monitoring-scene-face-data/blob/master/pic/4-1.jpg" width="240" height="328" /> </td>
   </tr>  
 </table>
 
